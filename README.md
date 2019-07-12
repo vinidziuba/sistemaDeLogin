@@ -16,3 +16,6 @@ dados com Ajax. ~~Recepção com PHP~~
 
 ## aula05 - 08 de julho de 2019
 Cadastro de usuário no banco de dados
+
+## aula06 - 11/07/2019
+Validação de Sessão
